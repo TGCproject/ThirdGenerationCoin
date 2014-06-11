@@ -1,0 +1,9 @@
+Building ThirdGenerationCoin
+
+See doc/readme-qt.rst for instructions on building ThirdGenerationCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ThirdGenerationCoin.
+
+See doc/build-*.txt for instructions on building ThirdGenerationCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of ThirdGenerationCoin.
